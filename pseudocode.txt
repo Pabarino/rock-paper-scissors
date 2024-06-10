@@ -1,0 +1,3 @@
+1-The game waits for the player to click start game
+2-Once start game is clicked the options and scores appear on screen
+3-The game goes on until someone reaches a score of 5, then the game ends.
